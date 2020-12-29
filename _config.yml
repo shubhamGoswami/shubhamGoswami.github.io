@@ -44,7 +44,7 @@ social-network-links:
   email: "shubhamgo@iiitd.ac.in"
 #  facebook: deanattali
   github: shubhamGoswami
-  twitter: daattali
+#  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
@@ -97,7 +97,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#FFFFFF" #"#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
